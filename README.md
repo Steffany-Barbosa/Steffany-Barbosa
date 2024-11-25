@@ -2,10 +2,10 @@
 
 **Desenvolvedora Front-End** 
 
-🌟 Sou apaixonada por tecnologia e desenvolvimento de software.
-🎓 Estudante de Análise e Desenvolvimento de Sistemas pela Focus.
-💻 Estou explorando o mundo da programação, com experiência em JavaScript e React.
-🎨 Adoro criar páginas interativas e com visuais atrativos, utilizando ferramentas como SASS, CSS e Bootstrap.
+🌟 Sou apaixonada por tecnologia e desenvolvimento de software. <br />
+🎓 Estudante de Análise e Desenvolvimento de Sistemas pela Focus.<br />
+💻 Estou explorando o mundo da programação, com experiência em JavaScript e React.<br />
+🎨 Adoro criar páginas interativas e com visuais atrativos, utilizando ferramentas como SASS, CSS e Bootstrap.<br />
 
 🚀 Estou sempre em busca de aprendizado e gosto de compartilhar conhecimento!
 
